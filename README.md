@@ -1,2 +1,2 @@
 # angry-roomba
-making a roomba shout angrily every time it runs into an obstacle
+A Raspberry Pi & Arduino project to make a roomba shout angrily every time it runs into an obstacle.
